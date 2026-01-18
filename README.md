@@ -9,7 +9,7 @@ define o PC (Program Counter), que aponta qual linha do código está sendo exec
 
 Ele suporta a Extensão M do RISC-V, ou seja, ele sabe fazer multiplicações (MUL) e divisões (DIV, REM) nativamente.
 
-Atividade proposta pelo professor [Bruno Otavio Piedade](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=A2914B95467F4261D2B46574E662F29C.buscatextual_0) do DCOMP-UFS da matéria de Arquitetura da Computadores.
+Atividade proposta pelo professor [Bruno Otavio Piedade](http://lattes.cnpq.br/1063672636684815) do DCOMP-UFS da matéria de Arquitetura da Computadores.
 
 ## Instruções:
 
